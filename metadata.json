@@ -1,0 +1,5 @@
+{
+  "name": "WhatsApp RSVP Form",
+  "description": "A clean, mobile-first web form for quick event RSVPs. It generates pre-filled WhatsApp messages to simplify event organization and tracking without a database.",
+  "requestFramePermissions": []
+}
